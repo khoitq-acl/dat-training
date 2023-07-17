@@ -1,5 +1,5 @@
-function sayHelloKhoi() {
-  console.log("Hello Khoi");
+function sayHelloWorld() {
+  console.log("Hello World");
 }
 
-sayHelloKhoi();
+sayHelloWorld();
